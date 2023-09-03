@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 20%
   width = 50%
   height = 60%
-  item_font = "Ubuntu Regular 32"
+  item_font = "Gospel Regular 40"
   item_color = "#d87891"
   selected_item_color = "#ffffff"
   item_height = 48
@@ -54,7 +54,7 @@ terminal-border: "0"
   # PL
   # text = "Start w ciągu %d sekund"
   # PT
-  # text = "Arranque automático dentro de %d segundos"
+  # text = "Inicialização automática dentro de %d segundos"
   # RU
   # text = "Загрузка выбранного пункта через %d сек."
   # RUE
